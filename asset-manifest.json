@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.bf59a659.chunk.css",
-    "main.js": "/static/js/main.fe4a1d71.chunk.js",
-    "main.js.map": "/static/js/main.fe4a1d71.chunk.js.map",
+    "main.css": "/static/css/main.666a8024.chunk.css",
+    "main.js": "/static/js/main.ea546cc6.chunk.js",
+    "main.js.map": "/static/js/main.ea546cc6.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.1b1586d1.js",
     "runtime-main.js.map": "/static/js/runtime-main.1b1586d1.js.map",
     "static/css/2.a21aa5e5.chunk.css": "/static/css/2.a21aa5e5.chunk.css",
@@ -14,7 +14,7 @@
     "service-worker.js": "/service-worker.js",
     "service-worker.js.map": "/service-worker.js.map",
     "static/css/2.a21aa5e5.chunk.css.map": "/static/css/2.a21aa5e5.chunk.css.map",
-    "static/css/main.bf59a659.chunk.css.map": "/static/css/main.bf59a659.chunk.css.map",
+    "static/css/main.666a8024.chunk.css.map": "/static/css/main.666a8024.chunk.css.map",
     "static/js/2.ea600a89.chunk.js.LICENSE.txt": "/static/js/2.ea600a89.chunk.js.LICENSE.txt",
     "static/media/819a309d1eeed5d1a750.819a309d.png": "/static/media/819a309d1eeed5d1a750.819a309d.png",
     "static/media/index.css": "/static/media/Inter-UI-SemiBold.a8fd51d2.woff2",
@@ -80,7 +80,7 @@
     "static/js/runtime-main.1b1586d1.js",
     "static/css/2.a21aa5e5.chunk.css",
     "static/js/2.ea600a89.chunk.js",
-    "static/css/main.bf59a659.chunk.css",
-    "static/js/main.fe4a1d71.chunk.js"
+    "static/css/main.666a8024.chunk.css",
+    "static/js/main.ea546cc6.chunk.js"
   ]
 }
