@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.cb68c04d.chunk.css",
-    "main.js": "/static/js/main.ae61f693.chunk.js",
-    "main.js.map": "/static/js/main.ae61f693.chunk.js.map",
+    "main.js": "/static/js/main.487efbda.chunk.js",
+    "main.js.map": "/static/js/main.487efbda.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.1b1586d1.js",
     "runtime-main.js.map": "/static/js/runtime-main.1b1586d1.js.map",
     "static/css/2.a21aa5e5.chunk.css": "/static/css/2.a21aa5e5.chunk.css",
@@ -71,7 +71,7 @@
     "static/media/spotlight07xl.01e9abff.jpg": "/static/media/spotlight07xl.01e9abff.jpg",
     "static/media/spotlight111xl.90d7ba3e.jpg": "/static/media/spotlight111xl.90d7ba3e.jpg",
     "static/media/spotlight2.ff532e19.jpg": "/static/media/spotlight2.ff532e19.jpg",
-    "static/media/spotlight2xlkii.d2e36e3c.jpg": "/static/media/spotlight2xlkii.d2e36e3c.jpg",
+    "static/media/spotlight2xlkii33.0684debe.jpg": "/static/media/spotlight2xlkii33.0684debe.jpg",
     "static/media/spotlight2xlkx.dab79fe5.jpg": "/static/media/spotlight2xlkx.dab79fe5.jpg",
     "static/media/spotlightboard.189037f1.jpg": "/static/media/spotlightboard.189037f1.jpg",
     "static/media/testing.5822d4a1.svg": "/static/media/testing.5822d4a1.svg",
@@ -84,6 +84,6 @@
     "static/css/2.a21aa5e5.chunk.css",
     "static/js/2.76cee7ff.chunk.js",
     "static/css/main.cb68c04d.chunk.css",
-    "static/js/main.ae61f693.chunk.js"
+    "static/js/main.487efbda.chunk.js"
   ]
 }
